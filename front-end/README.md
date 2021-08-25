@@ -30,7 +30,7 @@ npm run test:e2e
 npm run lint
 ```
 
-### Run All Tests
+### Run All Test
 ```
 npm test or npm run test
 ```

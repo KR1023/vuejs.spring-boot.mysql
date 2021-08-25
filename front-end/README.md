@@ -30,5 +30,10 @@ npm run test:e2e
 npm run lint
 ```
 
+### Run All Tests
+```
+npm test or npm run test
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

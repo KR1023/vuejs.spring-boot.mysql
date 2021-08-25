@@ -32,7 +32,7 @@ npm run lint
 
 ### Run All Test
 ```
-npm test or npm run test
+npm test
 ```
 
 ### Customize configuration
